@@ -1,0 +1,46 @@
+.speech{
+    font-family: Helvetica;
+    font-size: large;
+    color: black;
+}
+
+.stage-direction:hover{
+    font-family: Arial;
+    font-size: large;
+    color: red;
+    background-color: greenyellow;
+}
+
+.name{
+    font-family: Times;
+    font-size: large;
+    color: black;
+}
+
+.duke{
+    color:green;
+}
+
+.maffio{
+    color:gray;
+}
+
+.cardinal{
+    color:brown;
+}
+
+.guido{
+    color:pink;
+}
+
+.bardi{
+    color:violet;
+}
+
+.duchess{
+    color:purple;
+}
+
+.firstcitizen{
+    color:aqua;
+}
