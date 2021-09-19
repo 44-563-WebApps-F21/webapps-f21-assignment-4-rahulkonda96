@@ -4,11 +4,15 @@
     color: black;
 }
 
-.stage-direction:hover{
+.stage-direction{
     font-family: Arial;
     font-size: large;
     color: red;
-    background-color: greenyellow;
+    background-color: lightcyan;
+}
+
+.stage-direction:hover{
+    background-color: lightgreen;
 }
 
 .name{
