@@ -25,28 +25,84 @@
     color:blue;
 }
 
+.duke:hover{
+    background-color: gold;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
+}
+
 .maffio{
     color:darkgreen;
+}
+
+.maffio:hover{
+    background-color: goldenrod;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
 }
 
 .cardinal{
     color:brown;
 }
 
+.cardinal:hover{
+    background-color: blanchedalmond;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
+}
+
 .guido{
     color:darkmagenta;
+}
+
+.guido:hover{
+    background-color: yellow;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
 }
 
 .bardi{
     color:darkslategrey;
 }
 
+.bardi:hover{
+    background-color: silver;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
+}
+
 .duchess{
     color:purple;
 }
 
+.duchess:hover{
+    background-color: cornsilk;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
+}
+
 .firstcitizen{
-    color:aqua;
+    color:plum;
+}
+
+.firstcitizen:hover{
+    background-color: aqua;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
 }
 
 .table, th, td, tr:nth-child(even){
@@ -60,6 +116,17 @@
     margin: 50px;
   }
 
-  .secondcitizen{
+.secondcitizen{
     color:firebrick;
 }
+
+.secondcitizen:hover{
+    background-color: pink;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
+}
+
+
+
