@@ -128,5 +128,15 @@
     filter:blur(1px);
 }
 
+.thirdcitizen{
+    color:limegreen;
+}
 
+.thirdcitizen:hover{
+    background-color:linen;
+    border: 1px solid;
+    box-shadow: 5px 5px red;
+    text-shadow: 1px 1px #ff0000;
+    filter:blur(1px);
+}
 
