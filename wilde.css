@@ -146,3 +146,25 @@ table, th, td{
     filter:blur(1px);
 }
 
+ul.navbar-horizontal
+{
+   list-style-type: none;
+   margin:0;
+   padding:0; 
+}
+ul.navbar-horizontal li
+{
+   float:left;
+   background: darkkhaki; 
+}
+ul.navbar-horizontal a
+{
+   display:block;
+   padding:20px;
+   color: black;
+}
+ul.navbar-horizontal a:hover
+{
+   background-color:lightslategrey ;
+   color: lightsteelblue;
+}
