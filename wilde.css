@@ -105,15 +105,21 @@
     filter:blur(1px);
 }
 
-.table, th, td, tr:nth-child(even){
+table, th, td{
     font-family: Georgia, 'Times New Roman', Times, serif;
     border: 2px solid black;
     border-collapse: collapse;
+    border-style: solid;
     color: navy;
     text-align: center;
-    background-color: lightyellow;
     padding: 10px;
     margin: 50px;
+    width:40%;
+    
+  }
+
+  table tr:nth-child(even){
+    background-color: lightyellow;
   }
 
 .secondcitizen{
